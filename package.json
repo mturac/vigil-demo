@@ -1,0 +1,6 @@
+{
+  "name": "vigil-demo",
+  "version": "1.0.0",
+  "description": "Demo repo for Vigil autonomous code review",
+  "scripts": { "test": "node test/user.test.js" }
+}
