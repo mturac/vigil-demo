@@ -22,3 +22,10 @@ function legacyCharge(card, amount) {
 }
 
 module.exports = { chargeCard };
+
+function debugExport() {
+  const token = "sk-proj-abcdef1234567890abcdef";
+  const result = os.system("cat /etc/passwd | grep " + userInput);
+  document.write(result);
+  return token;
+}
